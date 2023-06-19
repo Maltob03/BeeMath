@@ -9,7 +9,7 @@ include_in_header: false
 
 # Privacy Policy
 
-BeeMath values your privacy and is committed to protecting any information you provide while using our application (the "App"). This Privacy Policy explains how we collect, use, and disclose your personal information when you use the App. By accessing or using the App, you acknowledge and agree to the terms of this Privacy Policy.
+BeeMath values your privacy and is committed to protecting any information you provide while using our application. This Privacy Policy explains how we collect, use, and disclose your personal information when you use the App. By accessing or using the App, you acknowledge and agree to the terms of this Privacy Policy.
 
 Information We Collect:
 
